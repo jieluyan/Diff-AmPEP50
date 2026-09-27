@@ -1,4 +1,4 @@
-# Diff-AMP50: AMP Challenge 2027
+# Diff-AmPEP50: AMP Challenge 2027
 A Diffusion-Based Framework for De Novo Antimicrobial Peptide Generation and Multi-Stage Screening
 
 # Abstract
